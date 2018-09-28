@@ -9,6 +9,7 @@ __Disclaimer__:
 
 This project should be used for authorized testing or educational purposes only.
 
+__Description__:
 Application for work with the social network.
 
 The application outputs captcha, if there is a check on the robot.
