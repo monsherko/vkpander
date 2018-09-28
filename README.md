@@ -1,4 +1,4 @@
-![logo](https://pp.userapi.com/c846417/v846417614/ff266/idsfbMmp2Hg.jpg)
+![logo](https://pp.userapi.com/c847123/v847123000/f758e/JXExqQXsJg4.jpg)
 
 # VKPander
 [![license](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/colental/byob/blob/master/LICENSE)
