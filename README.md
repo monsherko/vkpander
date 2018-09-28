@@ -30,7 +30,7 @@ __Installation__:
 
 __Launching__:
 
-`python3 reverk.py`
+`python3 ravevk.py`
 
 
 __Output Format__:
