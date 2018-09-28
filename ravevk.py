@@ -1,5 +1,11 @@
-# Copyright  2017-2018  monsherko
 # -*- coding: utf-8 -*-
+"""
+:authors: monsherko
+:contact: monsherko@yahoo.com
+:license: Apache License, Version 2.0, see LICENSE file
+:copyright: (c) 2018 monsherko
+"""
+
 
 from core.vk_api.vk_api import VkApi as VkApi
 
