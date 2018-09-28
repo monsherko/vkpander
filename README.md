@@ -20,7 +20,7 @@ It requires app id, token authentication - you can get them by creating your own
 Optionally, you can create each user own application, or use one at all.
 Implemented the ability to work with accounts in parallel.
 
-For more help on creating applications https://vk.com/dev/native_create.
+For more help on creating https://vk.com/dev/native_create applications.
 
 __Installation__: 
 
@@ -30,7 +30,7 @@ __Installation__:
 
 __Launching__:
 
-`python3 ravevk.py`
+`python3 ravevk.py -data resources/data.json`
 
 
 __Input Format__:
@@ -40,6 +40,6 @@ __Input Format__:
 
 ### Contact
 
-__Telegram__: https://t.me/b3l1ar 
+__ICQ__: 649946128
 
-__Email__: monsherko@gmail.com
+__Email__: monsherko@yahoo.com
