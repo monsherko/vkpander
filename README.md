@@ -24,18 +24,18 @@ For more help on creating https://vk.com/dev/native_create applications.
 
 __Installation__: 
 
-1. git clone https://github.com/monsherko/vkpander
-2. python3 -m pip install -f requierements.txt 
+1. `git clone https://github.com/monsherko/vkpander`
+2. `python3 -m pip install -f requierements.txt` 
 
 
 __Launching__:
 
-python3 reverk.py
+`python3 reverk.py`
 
 
 __Output Format__:
 
-resources/data.json
+`resources/data.json`
 
 
 ### Contact
