@@ -20,7 +20,7 @@ It requires app id, token authentication - you can get them by creating your own
 Optionally, you can create each user own application, or use one at all.
 Implemented the ability to work with accounts in parallel.
 
-For more help on creating https://vk.com/dev/native_create applications.
+For more help on creating applications https://vk.com/dev/native_create.
 
 __Installation__: 
 
