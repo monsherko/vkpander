@@ -1,5 +1,6 @@
 ![logo](https://pp.userapi.com/c847123/v847123000/f758e/JXExqQXsJg4.jpg)
 # vkpander
+[![license](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/monsherko/vkpander/blob/master/LICENSE)
 __Disclaimer__:  Application for work with the social network
 
 This application is written for fast promotion of your account or group, by: 
