@@ -33,7 +33,7 @@ __Launching__:
 `python3 ravevk.py`
 
 
-__Output Format__:
+__Input Format__:
 
 `resources/data.json`
 
