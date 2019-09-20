@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 """
+
 :authors: monsherko
 :contact: monsherko@yahoo.com
 :license: Apache License, Version 2.0, see LICENSE file
 :copyright: (c) 2018 monsherko
+
 """
 
 
@@ -19,6 +21,7 @@ import multiprocessing
 from PIL import ImageTk, Image
 import tkinter as tk
 from tkinter import *
+
 banner = """
     created by monherko
 """
