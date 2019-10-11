@@ -1,0 +1,6 @@
+sudo -H mysql <<QUERY_INPUT
+SET @@global.innodb_large_prefix = 1;
+create user db_user;
+create database db_name default CHARACTER set utf8   default COLLATE utf8_general_ci;
+grant all on db_name.* to 'db_user'@'localhost' identified by 'db_password';
+QUERY_INPUT
