@@ -1,4 +1,4 @@
-<a href="https://leanpub.com/mobile-security-testing-guide"><img width=180px align="right" style="float: right;" src="Document/Images/mstg-cover-release-small.jpg"></a>
+![logo](https://s4.aconvert.com/convert/p3r68-cdx67/blvni-1h04f.png)
 
 
 
