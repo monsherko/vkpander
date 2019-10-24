@@ -1,4 +1,4 @@
-<a href="(https://raw.githubusercontent.com/muzzi2004/Honeypot/master/honeyrave/static/logo.ico?token=AIABXJ56CAAXIC2Q7D4YHKK5WIM5K<img width=180px align="right" style="float: right;" src="Document/Images/mstg-cover-release-small.jpg"></a>
+<a href="https://leanpub.com/mobile-security-testing-guide"><img width=180px align="right" style="float: right;" src="Document/Images/mstg-cover-release-small.jpg"></a>
 
 
 
