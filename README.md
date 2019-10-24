@@ -1,4 +1,6 @@
-![logo](https://pp.userapi.com/c847123/v847123000/f758e/JXExqQXsJg4.jpg)
+<a href="(https://raw.githubusercontent.com/muzzi2004/Honeypot/master/honeyrave/static/logo.ico?token=AIABXJ56CAAXIC2Q7D4YHKK5WIM5K<img width=180px align="right" style="float: right;" src="Document/Images/mstg-cover-release-small.jpg"></a>
+
+
 
 # VKPander
 [![license](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/colental/byob/blob/master/LICENSE)
