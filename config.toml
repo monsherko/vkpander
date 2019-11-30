@@ -1,0 +1,12 @@
+[service.ldap]
+type="ldap"
+credentials=["admin:admin", "root:root"]
+naming-contexts=[ "dc=example,dc=com", "dc=ad,dc=myserver,dc=com" ]
+vendor-name=[ "HT Directory Server" ]
+vendor-version=[ "0.1.0.0" ]
+description=[ "Directory Server" ]
+objectclass=[ "dcObject", "organization" ]
+
+[[port]]
+port="tcp/389" #or udp
+services=["ldap"]
